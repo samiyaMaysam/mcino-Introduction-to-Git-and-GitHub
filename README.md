@@ -1,4 +1,4 @@
-# This is the README.md file for the **github-final-project**
+# Introduction to Git and GitHub
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
